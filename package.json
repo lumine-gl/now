@@ -1,0 +1,22 @@
+{
+  "name": "lumine-now",
+  "version": "0.0.0",
+  "description": "Returns a current time in milliseconds.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lumine-gl/now.git"
+  },
+  "keywords": [
+    "canvas",
+    "layout",
+    "render",
+    "virtual dom"
+  ],
+  "author": "Will Shown <will.shown@microsoft.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lumine-gl/now/issues"
+  },
+  "homepage": "https://github.com/lumine-gl/now"
+}
